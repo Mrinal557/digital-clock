@@ -1,0 +1,15 @@
+.clock{
+  background: #333333;
+  width: 200px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+}
+.clock-time,.clock-ampm{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: aliceblue;
+}
+.clock-time{
+    font-size: 48px;
+}
